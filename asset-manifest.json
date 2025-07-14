@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/space-cyber-portfolio/static/css/main.e6c13ad2.css",
-    "main.js": "/space-cyber-portfolio/static/js/main.2bd992da.js",
+    "main.css": "/space-cyber-portfolio/static/css/main.a19c8cee.css",
+    "main.js": "/space-cyber-portfolio/static/js/main.872f0d6e.js",
     "index.html": "/space-cyber-portfolio/index.html",
-    "main.e6c13ad2.css.map": "/space-cyber-portfolio/static/css/main.e6c13ad2.css.map",
-    "main.2bd992da.js.map": "/space-cyber-portfolio/static/js/main.2bd992da.js.map"
+    "main.a19c8cee.css.map": "/space-cyber-portfolio/static/css/main.a19c8cee.css.map",
+    "main.872f0d6e.js.map": "/space-cyber-portfolio/static/js/main.872f0d6e.js.map"
   },
   "entrypoints": [
-    "static/css/main.e6c13ad2.css",
-    "static/js/main.2bd992da.js"
+    "static/css/main.a19c8cee.css",
+    "static/js/main.872f0d6e.js"
   ]
 }
