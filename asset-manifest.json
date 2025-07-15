@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/space-cyber-portfolio/static/css/main.7e292672.css",
-    "main.js": "/space-cyber-portfolio/static/js/main.9d283c16.js",
+    "main.js": "/space-cyber-portfolio/static/js/main.05a38405.js",
     "index.html": "/space-cyber-portfolio/index.html",
     "main.7e292672.css.map": "/space-cyber-portfolio/static/css/main.7e292672.css.map",
-    "main.9d283c16.js.map": "/space-cyber-portfolio/static/js/main.9d283c16.js.map"
+    "main.05a38405.js.map": "/space-cyber-portfolio/static/js/main.05a38405.js.map"
   },
   "entrypoints": [
     "static/css/main.7e292672.css",
-    "static/js/main.9d283c16.js"
+    "static/js/main.05a38405.js"
   ]
 }
